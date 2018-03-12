@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a nutable index called stage.
 Git tracks changes.
 
-git less
+git less fo file
