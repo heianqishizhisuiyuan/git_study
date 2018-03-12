@@ -4,4 +4,4 @@ Git has a nutable index called stage.
 Git tracks changes.
 
 
-sss
+create a new branch is quick
