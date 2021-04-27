@@ -10,4 +10,5 @@ Git tracks changes.
 
 create a new branch is quick and siple
 修复了bug
+这是一个新分支dev
 
