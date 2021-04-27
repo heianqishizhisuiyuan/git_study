@@ -10,4 +10,4 @@ Git tracks changes.
 
 create a new branch is quick and siple
 修复了bug
-
+这是主线master
